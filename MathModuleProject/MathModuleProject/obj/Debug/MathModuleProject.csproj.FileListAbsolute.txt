@@ -1,7 +1,0 @@
-C:\Users\teyfi\source\repos\MathModuleProject\MathModuleProject\bin\Debug\MathModuleProject.exe.config
-C:\Users\teyfi\source\repos\MathModuleProject\MathModuleProject\bin\Debug\MathModuleProject.exe
-C:\Users\teyfi\source\repos\MathModuleProject\MathModuleProject\bin\Debug\MathModuleProject.pdb
-C:\Users\teyfi\source\repos\MathModuleProject\MathModuleProject\obj\Debug\MathModuleProject.csprojAssemblyReference.cache
-C:\Users\teyfi\source\repos\MathModuleProject\MathModuleProject\obj\Debug\MathModuleProject.csproj.CoreCompileInputs.cache
-C:\Users\teyfi\source\repos\MathModuleProject\MathModuleProject\obj\Debug\MathModuleProject.exe
-C:\Users\teyfi\source\repos\MathModuleProject\MathModuleProject\obj\Debug\MathModuleProject.pdb
